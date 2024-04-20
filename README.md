@@ -7,8 +7,11 @@ Ciências Contábeis, Bacharel - UFSC
 ### Experiência Profissional
 
 Game Designer em Computer Science Soluçõeses Tecnológicas EIRELI
+
 -Desenvolvimento de roteiros
+
 -Mecânicas e assets visuais
+
 -Animações em pixel art para jogos mobile e crypto
 
 
